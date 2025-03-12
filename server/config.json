@@ -1,0 +1,7 @@
+{
+    "host": "8.130.141.84",
+    "port": 3306,
+    "user": "root",
+    "password": "123456",
+    "database": "chat"
+}
